@@ -60,6 +60,53 @@ By dicecting the problem statement in Siphiwe Dlamini and Chinje's (2019) articl
 
 Given the definition of a research problem identified above, the research problem "low political participation among university students in South Africa and the lack of empirical research data examining the relationship between media use and political participation" fits the criteria as it identifies a specific issue (low political participation) and highlights a gap in existing research (lack of empirical data on media use and political participation). Badaru and Adu (2020) problem statement fits the identified criteria of a research problem as it sets the stage for their study by addressing a specific issue that requires further investigation and understanding according to Madhu et al. (2024).
 
+### Q1.4
+
+**Article 1:** 
+
+**Population** Post graduate students who have completed their studies and graduated from South African universities.
+
+The researchers Makola and Ntoyanto-Tyatyantsi's (2023) solely focused on postgraduate students who graduated between the years 2018 and 2021 from South African universities with a master or doctoral degree. The sample group according to Makola and Ntoyanto-Tyatyantsi (2023) consisted of "12 participants 8 being master's students and 4 being doctoral students". The indaviduals were selected from 8 different universities across 5 provinces in South Africa each representing different fields of study (Sciences, Humanities, and Management). These are finely selected individuals matching the du Plooy-Cilliers, Davis and Bezuidenhout (2021) exxamples of an accessible group of individuals that the researcher wants to study.
+
+**Population Parameters:** 
+The population parameters for the study according Siphiwe Dlamini and Chinje (2019) and du Plooy-Cilliers, Davis and Bezuidenhout (2021) are as follows:
+
+- Experiences with research ethics training received (58% of students attended workshops).
+- Experiences with support and guidance received from supervisors (69% of students received guidance).
+- Students who were familiar with their university's research ethics policies (67% of students were familiar).
+- Students who applied Research Ethics Principles in their research projects (72% of students applied principles).
+
+**Article 2:** 
+
+**Population** South African youth who are members of loyalty programs
+
+The population covered in the article by Siphiwe Dlamini and Chinje (2019) consist of South African youth who are members of loyalty programs. The sample group covered consisted of students from the University of Witwatersrand (77.6% female and 22.4% male) where over 50% of students were aged 18 - 20 years old. The students all participated in various loyalty schemes within a range of industries (food, clothing, and health and beauty sectors). This makes for a clear target population as defined by du Plooy-Cilliers, Davis and Bezuidenhout (2021) as a clearly defined group of individuals which the researchers aims to study.
+
+**Population Parameters:**
+The population parameters for the study according Siphiwe Dlamini and Chinje (2019) and du Plooy-Cilliers, Davis and Bezuidenhout (2021) are as follows:
+
+- Proportion of South African youth enrolled in loyalty programs (aged 18 -24 years old).
+- mean level of customer satisfaction.
+- Proportion of youth who engage in repeat purchase behavior.
+- Average satisfaction levels with loyalty programs.
+- Average perception of trust and commitment towards loyalty programs.
+
+
+**Article 3:**
+
+**Population** University students in South Africa
+
+The source presented by Badaru and Adu (2020) focuses on university students in South Africa, specifically the Eastern Cape province with the sample including 60.5% male and 39.5% female students within the age range of 21 - 25 years old. The following match du Plooy-Cilliers, Davis and Bezuidenhout (2021) criteria for a target population a specific accessible group of individuals that the researcher wants to study.
+
+**Population Parameters:** 
+The population parameters for the study according Siphiwe Dlamini and Chinje (2019) and du Plooy-Cilliers, Davis and Bezuidenhout (2021) are as follows:
+
+- Proportion of students enrolled within South African universities (by gender).
+- mean age (21 - 25 years old),
+- media habits (types and frequency). 
+- Average levels of political participation.
+
+
 # References
 
 Badaru, K.A. and Adu, E.O., 2020. University Students’ Media Use and Political Participation in South Africa. South African Journal of Higher Education, 34(1), pp.18–36. https://doi.org/10.20853/34-1-3382.
