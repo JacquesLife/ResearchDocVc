@@ -41,18 +41,24 @@ The study conducted by Badaru and Adu (2020) utilized a mixed methods (Combinati
 
 ### Q1.3
 
-**Research Problem:**
+**Research Problem:** The research problem is a researchers most appropriate first step when conducting research as it sets the stage (scope, direction, and focus) for the entire research process (Madhu et al., 2024). The research problem is a statement, question, or issue that a researcher wants to further investigate or understand (Madhu et al., 2024).
 
 **Article 1:** 
 
+**Problem Statement:** Lack of sufficient sufficient qualitative research on the experiences of postgraduate students in South Africa regarding research ethics and the ethical clearance process.
 
+The problem statement in Makola and Ntoyanto-Tyatyantsi's (2023) article align well with the definition of a research problem presented above as it identifies a specific issue (Postgraduate students' experiences with research ethics and the ethical clearance process) and highlights a gap in existing literature (lack of sufficient qualitative research on this topic). Makola and Ntoyanto-Tyatyantsi (2023) problem statement fits Madhu et al. (2024) identified criteria of a research problem statement as it provides a clear focus for their study and sets the stage for further investigation into the experiences of postgraduate students in South Africa regarding research ethics.
 
 **Article 2:**
 
+**Problem Statement:** Poor understanding, particularly within emerging markets regarding the youth and how loyalty programs influence their repeat purchase behavior, considering the mediating role of customer satisfaction, trust, and commitment. 
 
+By dicecting the problem statement in Siphiwe Dlamini and Chinje's (2019) article, it is evident that it matches Madhu et al. (2024) definition of a research problem as it identifies a specific issue (poor understanding of loyalty programs' influence on repeat purchase behavior among South African youth) and highlights a gap in existing literature (Poor understanding of this topic within emerging markets). We can conclude that the problem statement in Siphiwe Dlamini and Chinje's (2019) article provides a clear focus for their study and leaves room for further exploration of the topic, thus fitting the criteria of a research problem as defined by Madhu et al. (2024).
+**Article 3:** 
 
-**Article 3:**
+**Problem Statement:** low political participation among university students in South Africa and the lack of empirical research data examining the relationship between media use and political participation.
 
+Given the definition of a research problem identified above, the research problem "low political participation among university students in South Africa and the lack of empirical research data examining the relationship between media use and political participation" fits the criteria as it identifies a specific issue (low political participation) and highlights a gap in existing research (lack of empirical data on media use and political participation). Badaru and Adu (2020) problem statement fits the identified criteria of a research problem as it sets the stage for their study by addressing a specific issue that requires further investigation and understanding according to Madhu et al. (2024).
 
 # References
 
@@ -61,6 +67,8 @@ Badaru, K.A. and Adu, E.O., 2020. University Students’ Media Use and Political
 du Plooy-Cilliers, F., Davis, C. and Bezuidenhout, R.-M., 2021. Research Matters. 2nd ed. Cape Town: Juta.
 
 Dudovskiy, J., 2025. Interpretivism (interpretivist) Research Philosophy. [online] Business Research Methodology. Available at: <https://research-methodology.net/research-philosophy/interpretivism/>.
+
+M, M.D., Hanumanthappa R, Rosalin Geetha and Kota Karuna Sri, 2024. Research Problem. [online] ResearchGate. Available at: <https://www.researchgate.net/publication/378555393_Research_Problem>.
 
 Makola, Z. and Ntoyanto-Tyatyantsi, N., 2023. Post Graduate Students’ Experiences with Research Ethics: A South African Perspective. Journal of Empirical Research on Human Research Ethics, [online] 18(4), pp.208–217. https://doi.org/10.1177/15562646231188004.
 
