@@ -106,6 +106,35 @@ The population parameters for the study according Siphiwe Dlamini and Chinje (20
 - media habits (types and frequency). 
 - Average levels of political participation.
 
+## Q1.5
+
+**Article 1:**
+
+**Sampling Method:** Purposive sampling and snowball sampling 
+
+**Advantages:** Set charecteristics of participants ensure that the sample is relevant to the research problem meaning they all provide value according to du Plooy-Cilliers, Davis and Bezuidenhout (2021). With snowball sampling the advantage is locating difficult-to-reach participants and essentially just streamlines this process (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+The following research by Makola and Ntoyanto-Tyatyantsi (2023) falls into the category of purposive sampling and snowball sampling. We can see the element of purposive sampling as the authors specifically selected postgraduate students who had graduated from South African universities between 2018 and 2021. These participants match key characteristics identfied by the researchers then selected based on these same characteristics (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). Snowball sampling is also evident in the study as the researchers used Twitter to recruit participants, asking those who already participated to retweet the post to expand the researchers particapant pool. Since refferals were used to referals were used to increase the sample size, this is a clear example of snowball sampling (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+**Article 2:** 
+
+**Sampling Method:** Convenience sampling
+
+**Advantages:** Quick and easy access to participants, which makes for fast and cost-effective data collection (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). 
+
+The Research conducted by Siphiwe Dlamini and Chinje (2019) utilized covinience sampling as the participants were selected specifically from the University of Witwatersrand in Johannesburg, who were easily accessible to the researchers. The authors admisnistered a self-administered questionnaire to the students ages 18 -24 years old from the university of Witwatersrand. The researchers clearly had easy acess to students at this university as the sample was taken from a single university, which is a clear example of convenience sampling as the name suggest (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+**Article 3:**
+
+**Sampling Method:** Stratified random sampling and purposive sampling
+
+**Advantages:** The advantage of stratified randon sampling is that it ensures that the subgroups (strata) within the population are represented efectively (proportionally) according to du Plooy-Cilliers, Davis and Bezuidenhout (2021). This is useful as experiances may differ between the subgroups (faculties). Pruposive sampling allowed the reasearchers in this instance allowed the researchers to select the students council-selected members who matched their specific characteristics of interest, ensuring that each element is aligned with their research du Plooy-Cilliers, Davis and Bezuidenhout (2021) identified.
+
+The study conducted by Badaru and Adu (2020) made use of two sampling methods, stratified random sampling for the quantitative component and purposive sampling for the qualitative component. The authors surveyed 372 students from various faculties (strata) within the Eastern Cape university. The population coincides with du Plooy-Cilliers, Davis and Bezuidenhout (2021) definition of stratified random sampling being the population was divided into clear subgroups (faculties) and then a random sample was taken from each subgroup. Purposive sampling was utilized for the qualitative component of the study where 5 student council-selected members were interviewed through semi-structured interviews. These students were selected as they posed certian key characteristics that the researchers wanted to study, which is a clear example of purposive sampling (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+
+
+
 
 # References
 
