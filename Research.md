@@ -69,12 +69,12 @@ Given the definition of a research problem identified above, the research proble
 The researchers Makola and Ntoyanto-Tyatyantsi's (2023) solely focused on postgraduate students who graduated between the years 2018 and 2021 from South African universities with a master or doctoral degree. The sample group according to Makola and Ntoyanto-Tyatyantsi (2023) consisted of "12 participants 8 being master's students and 4 being doctoral students". The indaviduals were selected from 8 different universities across 5 provinces in South Africa each representing different fields of study (Sciences, Humanities, and Management). These are finely selected individuals matching the du Plooy-Cilliers, Davis and Bezuidenhout (2021) exxamples of an accessible group of individuals that the researcher wants to study.
 
 **Population Parameters:** 
-The population parameters for the study according Siphiwe Dlamini and Chinje (2019) and du Plooy-Cilliers, Davis and Bezuidenhout (2021) are as follows:
+The population parameters for the study according Makola and Ntoyanto-Tyatyantsi (2023) and du Plooy-Cilliers, Davis and Bezuidenhout (2021) are as follows:
 
-- Experiences with research ethics training received (58% of students attended workshops).
-- Experiences with support and guidance received from supervisors (69% of students received guidance).
-- Students who were familiar with their university's research ethics policies (67% of students were familiar).
-- Students who applied Research Ethics Principles in their research projects (72% of students applied principles).
+- Postgraduate students from various South African universities.
+- Students with various fields of study (Sciences, Humanities, and Management).
+- Students who graduated between 2018 and 2021.
+- Master and doctoral students.
 
 **Article 2:** 
 
@@ -156,8 +156,42 @@ The study conducted by Badaru and Adu (2020) utilized a questionnaire survey and
 
 **Article 1:**
 
-**Key Findings:**
+**Key Findings:** The authors Makola and Ntoyanto-Tyatyantsi (2023) found the following key findings in their study:
 
+- 58% of had not recieved any formal research ethics training.
+- 69% of students did receive support and guidance from academic supervisors.
+- 67% of students where unfamiliar with their unversity's research ethics policy.
+- 93% of students had a positve perception of the research ethics clearance process.
+
+With these crucial findings the authors Makola and Ntoyanto-Tyatyantsi (2023) recommend that unvisities in South Africa should expose students to research ethics training at the undergraduate level ensuring that they are well-prepared for the ethical clearance process in their postgraduate sudies.
+
+**Implications and Insights:** Makola and Ntoyanto-Tyatyantsi (2023) made the assumption that ethical clearance is crucial when conducting research with people and that postgraduate students frequently use human participants in their research. Once the research had been conducted Makola and Ntoyanto-Tyatyantsi (2023) concluded that more research is needed within the topic of research ethics and that more teaching support should be provided to postgraduate students in South Africa.
+
+**Article 2:**
+
+**Key Findings:** Sipihiwe Dlamini and Chinje (2019) noticed the following key findings in their study:
+
+- All 6 hypotheses were supported. 
+- loyalty programs have a postive and direct influence on customer satisfaction, trust, and commitment.
+- Customer satisfaction has a direct influence on repeat purchase behavior.
+- Customer satisfaction is a significant mediator between loyalty programs and repeat purchase behavior.
+
+The authors Sipihiwe Dlamini and Chinje (2019) concluded that building customer satisfaction amongst the youth marketers can have a positeve impact on loyalty programs and repeat purchase behavior. 
+
+**Implications and Insights** The authors Sipihiwe Dlamini and Chinje (2019) believe that loyalty programs are a great retention tool for bussinesses to maintain a customer base and that their primary value lies in increasing sales amongst loyal customers. In conducting this study due to the lack of empirical research on the topic the authors Siphiwe Dlamini and Chinje (2019) were able to reinforce and test their hypotheses. 
+
+**Article 3:**
+
+**Key Findings:** The authors Badaru and Adu (2020) noted the following key findings within their study:
+
+- The majority of students 65.3% used social media as their primary source of political information.
+- 49.2% of students voted for Student Representative Council (SRC) members.
+- 30.4% of students voted in the 2014 National Elections.
+- Media use has a postitve influence on political participation.
+
+The authors Badaru and Adu (2020) study found that media use, mainly social media, has a positive influence on political participation anong university students in South Africa. They noted that social media usage influences politcal participation outside of university capmpuses, such as national elections.
+
+**Implications and Insights:** Badaru and Adu (2020) believe that the survival of democracy in South Africa depends on active politcal participation and that South African democracy is at risk due to low political participation rates amongst the youth. Badaru and Adu (2020) suggest that mass media usage is a crucial vector in increasing political participation and that digitization is reshaping the political landscape in South Africa, therfore tapping into this potential will be crucial for increasing political participation rates amongs the youth.
 
 # References
 
