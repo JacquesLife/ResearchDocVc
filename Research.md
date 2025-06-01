@@ -132,8 +132,31 @@ The Research conducted by Siphiwe Dlamini and Chinje (2019) utilized covinience 
 
 The study conducted by Badaru and Adu (2020) made use of two sampling methods, stratified random sampling for the quantitative component and purposive sampling for the qualitative component. The authors surveyed 372 students from various faculties (strata) within the Eastern Cape university. The population coincides with du Plooy-Cilliers, Davis and Bezuidenhout (2021) definition of stratified random sampling being the population was divided into clear subgroups (faculties) and then a random sample was taken from each subgroup. Purposive sampling was utilized for the qualitative component of the study where 5 student council-selected members were interviewed through semi-structured interviews. These students were selected as they posed certian key characteristics that the researchers wanted to study, which is a clear example of purposive sampling (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
 
+### Q1.6
 
+**Article 1:**
 
+**Data Collection Method:** Personal semi-structured interviews
+
+Makola and Ntoyanto-Tyatyantsi (2023) utilised semi-structured interviews as their feild primary data collection method. They interviewed 12 postgraduate students through MS Teams in 50 - 60 minute interview sessions (Makola and Ntoyanto-Tyatyantsi, 2023). One researcher conducted the interviews transcribing the auido and taking verbatim quotes from the participants (Makola and Ntoyanto-Tyatyantsi, 2023). By analyzing this approach we can clearly see that the authors took a semi-structured approach to the interviews as they asked open-ended questions, allowed for follow-up questions, and allowed the participants to share their experiences in their own words (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). 
+
+**Article 2:**
+
+**Data Collection Method:** Self-administered questionnaire 
+
+The research conducted by Siphiwe Dlamini and Chinje (2019) utilized a self-administered questionnaires to collect data from their participants. The authors sampled 263 students ages 18 - 24 utilising a 7-point Likert scale to measure the participants' responses (Siphiwe Dlamini and Chinje, 2019). This is an example of self-administered questionnaires as the participants completed the questionnaire without the presence of the researchers in their own time (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). 
+
+**Article 3:**
+
+**Data Collection Method:** Questionnaire survey and semi-structured interviews
+
+The study conducted by Badaru and Adu (2020) utilized a questionnaire survey and semi-structured interviews as their data collection methods. The authors sent questionnaires to 372 students from various faculties within the Eastern Cape province of South Africa. This matches du Plooy-Cilliers, Davis and Bezuidenhout (2021) definition of a questionnaire survey as it most likely consisted of closed-ended questions admisntered to a large sample size to collect quantitative data. The authors used semi-structured interviews with 5 student student council members to gather qualitative data. The interviews had a researcher present to ask questions and get follow-up responses from the participants, which indicates that the authors used a semi-structured approach to the interviews (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+### Q1.7
+
+**Article 1:**
+
+**Key Findings:**
 
 
 # References
