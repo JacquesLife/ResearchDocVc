@@ -193,13 +193,29 @@ The authors Badaru and Adu (2020) study found that media use, mainly social medi
 
 **Implications and Insights:** Badaru and Adu (2020) believe that the survival of democracy in South Africa depends on active politcal participation and that South African democracy is at risk due to low political participation rates amongst the youth. Badaru and Adu (2020) suggest that mass media usage is a crucial vector in increasing political participation and that digitization is reshaping the political landscape in South Africa, therfore tapping into this potential will be crucial for increasing political participation rates amongs the youth.
 
+### Q1.8
+
+**Article 1:** Makola and Ntoyanto-Tyatyantsi (2023) ensured the validity of their study by making use of a technique called member checking. This technique invloves sharing the research findings with the participants to ensure that they have accuratly captured their experiences and interpretations (Birt et al., 2016). The authors also utlised data source traingulation were multiple data soruces (litrature, interviews, documents) are used to collect data which enhances the credibility of the findings (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). The researchers Makola and Ntoyanto-Tyatyantsi (2023) also ensured that they obtain the neccessary ethical clearance from the participants before conducting interviews which ensures intergrity. By ensuring both vailidity and reliability as established above the authors Makola and Ntoyanto-Tyatyantsi (2023) are able to provide a trustworthy and credible study according to Eldridge (2015).
+
+**Article 2:** To ensure trustworthiness in their study, Siphiwe Dlamini and Chinje (2019) by adapting research intrauments from similar previous studies to ensure validity and reliability. To further enhance validity and reliability Siphiwe Dlamini and Chinje (2019) conducted a pre-test of the questionnaire was done with 10 students to ensure that the questions are clear and understandable to the participants. Finally various statistical tests were done to ensure the reliability of the model and the data collected Makola and Ntoyanto-Tyatyantsi (2023). All the above factor contribute to the trustworhiness of the study by combining both reliability and validity techniques and tests we can conclude that the study matches the criteria for trustworthiness as identified by Eldridge (2015). 
+
+**Article 3:** 
+For Badaru and Adu (2020) to ensure trustworthiness in their study they sought the opinions of experts in their feild to validate their data collection instruments as well as conducted a pilot test to further test their research instruments for reliability. Finaly to ensure intergrity the authors obtiained the necessary ethical clearance and approval from the university of Fort Hare before conducting the study. By ensuring these three pillars of trustworthiness (validity, reliability, and integrity) the authors Badaru and Adu (2020) were able to provide a trustworthy and credible study matching the criteria laid out by Ahmed (2024) and Eldridge (2015). 
+
+
 # References
 
+Ahmed, S.K., 2024. The Pillars of Trustworthiness in Qualitative Research. Journal of Medicine, Surgery, and Public Health, [online] 2(1), pp.1–4. https://doi.org/10.1016/j.glmedi.2024.100051.
+
 Badaru, K.A. and Adu, E.O., 2020. University Students’ Media Use and Political Participation in South Africa. South African Journal of Higher Education, 34(1), pp.18–36. https://doi.org/10.20853/34-1-3382.
+
+Birt, L., Scott, S., Cavers, D., Campbell, C. and Walter, F., 2016. Member Checking: A Tool to Enhance Trustworthiness or Merely a Nod to Validation? Qualitative Health Research, [online] 26(13), pp.1802–1811. https://doi.org/10.1177/1049732316654870.
 
 du Plooy-Cilliers, F., Davis, C. and Bezuidenhout, R.-M., 2021. Research Matters. 2nd ed. Cape Town: Juta.
 
 Dudovskiy, J., 2025. Interpretivism (interpretivist) Research Philosophy. [online] Business Research Methodology. Available at: <https://research-methodology.net/research-philosophy/interpretivism/>.
+
+Eldridge , J., 2015. Chapter Objectives. [online] Available at: <https://samples.jbpub.com/9781284079654/9781284108958_CH12_Pass03.pdf>.
 
 M, M.D., Hanumanthappa R, Rosalin Geetha and Kota Karuna Sri, 2024. Research Problem. [online] ResearchGate. Available at: <https://www.researchgate.net/publication/378555393_Research_Problem>.
 
