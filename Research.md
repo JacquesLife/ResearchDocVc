@@ -214,22 +214,67 @@ For Badaru and Adu (2020) to ensure trustworthiness in their study they sought t
 
 **Article 1:** 
 
-**Gaps and Limitations:** 
+**Gaps and Limitations:** I noticed the following gaps and limitations within the study conducted by Makola and Ntyoanto-Tyatyantsi (2023):
 
-**Unexplored Aspects:**
+- The small sample size of 12 participants 
+- Limited to posgraduate students from 8 different universities in South Africa.
+- Study took place during the COVID-19 pandemic which disrupted normal academic processes.
+- Snowball sampling skewed proportions of participants feild of study (Sciences, Humanities, and Management) as the majority of participants were from Bussiness related feilds.
+
+The authors also noted these gaps and limitations within their study, however, they did not mention COVID-19 as a limiting factor. I believe the disruption COVID caused to day-to-day academic processes may have skewed education surrounding research ethics and the ethical clearance process as the lack of in-person training and workshops would not have been available to students. The study spans from 2018 to 2021, which is essential infomation as the pandemic started in 2020 which could have impacted results especially for the 2020 and 2021 participants.
+
+**Unexplored Aspects:** I believe that the study conducted by Makola and Ntoyanto-Tyatyantsi (2023) could be expanded upon in the following ways:
+
+- Make use of Quantitative data collection methods to gather more data from a lager sample size.
+- Interview academic supervisors and university staff to gain a holstic view of the research ethics and ethical clearance process.
+- Compare undergraduate and postgraduate students experiences with research ethics and the ethical clearance process.
+- Effects of COVID-19 on the research ethics and ethical clearance process.
+
+With these expantions and suggestions the study could potentially be more effective in addressing the research problem or provide an area for future researchers to explore. Intially I believe just expanding the sample size to larger than 12 participants would be a good start as I dont believe that it is enough to draw any significant conclusions from.
 
 **Article 2:** 
 
-**Gaps and Limitations:** 
+**Gaps and Limitations:** I noticed the follwong gaos and limitations within the study conducted by Siphiwe Dlamini and Chinje (2019):
 
-**Unexplored Aspects:**
+- The study only included students from the University of Witwatersrand within the Gauteng province.
+- Increase the age parameters to include a range of participants.
+- Lack of Qualitative data on a research topic that seems quite subjective.
+- Types of loyalty programs were not taken into account.
+
+The authors did mention two of these four limitations within their study but did not consider the lack of qualitative data and the types of loyalty programs as a limitation. I believe that the authors use of convenience sampling is limiting the study as it could easily provide more insightful results if they conducted the study across multiple universities in South Africa.
+
+
+**Unexplored Aspects:** I believe that the study conducted by Siphiwe Dlamini and Chinje (2019) could be improved or further researched in the following ways:
+
+- Explore if insatutions promote the use of loyalty programs to students.
+- Analize the effectiveness of different types of loyalty programs on repeat purchase behavior.
+- Conduct semi-structured interviews with participants to gain a deeper understanding of their experiences with loyalty programs.
+- Compare the effectiveness of loyalty programs across different industries (food, healthcare, clothing, etc.).
+
+The above suggestions I have made could potentially highlight areas for further improvement or expansion within the study. Initially just expanding the sampling to multiple universities in South Africa would be a good area to explore instead of just the University of Witwatersrand. I also believe segmenting the types of loyalty programs across multiple industries would provide more insight into the topic and heald more reliable results. 
 
 **Article 3:** 
 
-**Gaps and Limitations:** 
+**Gaps and Limitations:** I believe that the following gaps and limitations are present within Badaru and Adu's (2020) study:
+
+- The study was conducted at one university in the Eastern Cape province of South Africa.
+- Few socail media platforms were considered primarily Facebook and Twitter.
+- Study is only limited to university students and does not consider the non-student youth population.
+- Provincial effects (cultural, economic, and political) on media use and political participation were not considered.
+
+I noticed the follwing gaps and limitations within the study the authors only noted the study being limited to one university in the Eastern Cape province of South Africa. I believe the study has more limitations such as limited data on newer social media platforms such as TikTok and Instagram which have become increasingly popular especially among the youth. The study also speeks about the apathy of youth towards political participation but only includes university students in the study whithout considering the non-student youth population. Finally provincial effects such as culural, economic, and political factors were not mentioned or considered.
 
 **Unexplored Aspects:**
 
+- Expanding the study to include multiple universities across multiple provinces in South Africa.
+- Including non-student youth to gain a deeper understanding of media use and political participation.
+- Measuring which social media platforms are most effective in increasing political participation.
+- Exploring locational factors such as rural vs urban areas and if they have an effect on media use and political participation.
+
+Much like Article 2, I believe that expanding the study to include multiple universities across multiple provinces in South Africa would be a great area for future research. The authors should also consider including the non-student youth to gain deeper insights to further reinforce their findings. A more granular approach to social media platforms could help further understand which platforms are most effective in increasing political participation. These suggestions I believe provide unexplored aspects and grounds to conduct further research into the topic of media use and political participation among university students in South Africa.
+
+
+## Question 2
 
 
 # References
