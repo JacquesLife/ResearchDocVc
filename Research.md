@@ -202,6 +202,35 @@ The authors Badaru and Adu (2020) study found that media use, mainly social medi
 **Article 3:** 
 For Badaru and Adu (2020) to ensure trustworthiness in their study they sought the opinions of experts in their feild to validate their data collection instruments as well as conducted a pilot test to further test their research instruments for reliability. Finaly to ensure intergrity the authors obtiained the necessary ethical clearance and approval from the university of Fort Hare before conducting the study. By ensuring these three pillars of trustworthiness (validity, reliability, and integrity) the authors Badaru and Adu (2020) were able to provide a trustworthy and credible study matching the criteria laid out by Ahmed (2024) and Eldridge (2015). 
 
+### Q1.9
+
+**Article 1:** Makola and Ntoyanto-Tyatyantsi (2023) research paper being a study on ethical clearance they were particluarly aware of the ethical implications of their research approaching it with great diligence. Before conducting the study the authors an informative letter was sent to all potential participants explaining the purpose of the study as well as a consent form. During the interviews formal consent was obtained again with participants signing a consent form before the interview began (Makola and Ntoyanto-Tyatyantsi, 2023). Psudonnymes were given to participants to ensure their anoymity and confidentiality (Makola and Ntoyanto-Tyatyantsi, 2023). However, the authors still faced challenges after the interviews such as not providing the university names in the reoprting phase and the secure storage of the audio recordings and transcripts (Makola and Ntoyanto-Tyatyantsi, 2023). The researchers Makola and Ntoyanto-Tyatyantsi (2023) clearly took precautions and made an effect to ensure that participants responses and identities were confedential and used member checking to ensure accuaracy alligning with du Plooy-Cilliers, Davis and Bezuidenhout (2021) criteria for ethical research.
+
+**Article 2:** Siphiwe Dlamini and Chinje (2019) did not dive deep into the ethical implications within their published research paper. Before the study was conducted the authors Siphiwe Dlamini and Chinje (2019) did not mention any ethical clearance or consent forms being sent to the participants. However, the stated that the did ensure visibility through the completion of the self-administered questionnaire to maintain data quality during the data collection process. The authors used convenience sampling and stated that their is no guarantee that participants were transparent in their responses (Siphiwe Dlamini and Chinje, 2019). Their is also no mention of secure data storage after the study was conducted which is a necessary step in ethical research (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). It is possible that the nature of the study did not require ecessive clearance or ethical implications or that the authors did not touch on this process in their published research paper. However, the lack of depth and transparency into ethical issues within the study does raise concerns about the study's integrity according the criteria set out by du Plooy-Cilliers, Davis and Bezuidenhout (2021).
+
+**Article 3:** To adress ethical implications within their study, Badaru and Adu (2020) obtained ethical clearance from the university of Fort Hare before conducting the study to ensure ligitimacy and integrity. During the study itself the authors made an effort to explain the purpose of the study to the participants and obtain formal consent before participating in the study (Badaru and Adu, 2020). However, the authors did not mention anyhting about anonymity, confidentiality and secure response storage after the study was conducted. The authors did take ethics into account for the most part adressing how the handle ethics within the before and during stage however, seemed to overlook the after stage of the research process. This is still a noble effort matching most of the criteria set out by du Plooy-Cilliers, Davis and Bezuidenhout (2021) for ethical research.
+
+### Q1.10
+
+**Article 1:** 
+
+**Gaps and Limitations:** 
+
+**Unexplored Aspects:**
+
+**Article 2:** 
+
+**Gaps and Limitations:** 
+
+**Unexplored Aspects:**
+
+**Article 3:** 
+
+**Gaps and Limitations:** 
+
+**Unexplored Aspects:**
+
+
 
 # References
 
