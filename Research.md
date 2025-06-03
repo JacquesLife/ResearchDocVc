@@ -17,9 +17,9 @@ Siphiwe Dlamini and Chinje's (2019) study dives into the influence of loyalty pr
 
 ### Article 3
  
-**Paradigm:** Mixed methods
+**Paradigm:** Critical realism
 
-Badaru and Adu (2020) conducted a study titled "University Students’ Media Use and Political Participation in South Africa" which investigates the relationship between university students' media use and their political participation. The authors employed a mixed methods approach, combining questionnaires (Quantitative) and semi-structured interviews (Qualitative) to gather data. The authors sent out questionnaires to 372 students and conducted interviews with 5 student council-selected members (Badaru and Adu, 2020). Given these multiple data collection methods we can classify the study as mixed methods research as it integrates both quantitative and qualitative approaches to provide a comprehensive understanding of the research problem (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). 
+Badaru and Adu (2020) conducted a study titled "University Students’ Media Use and Political Participation in South Africa" which investigates the relationship between university students' media use and their political participation. The authors employed a critical realist approach, combining questionnaires (Quantitative) and semi-structured interviews (Qualitative) to gather data. The authors sent out questionnaires to 372 students and conducted interviews with 5 student council-selected members (Badaru and Adu, 2020). Given these multiple data collection methods we can classify the study as critical realism as it integrates both quantitative and qualitative approaches to provide a comprehensive understanding of the research problem (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). 
 
 ### Q1.2
 
@@ -274,7 +274,126 @@ I noticed the follwing gaps and limitations within the study the authors only no
 Much like Article 2, I believe that expanding the study to include multiple universities across multiple provinces in South Africa would be a great area for future research. The authors should also consider including the non-student youth to gain deeper insights to further reinforce their findings. A more granular approach to social media platforms could help further understand which platforms are most effective in increasing political participation. These suggestions I believe provide unexplored aspects and grounds to conduct further research into the topic of media use and political participation among university students in South Africa.
 
 
-## Question 2
+## Question 2:
+
+### Q2.1
+
+**Article 1:** Post Graduate Students’ Experiences with Research Ethics: A South African Perspective
+
+**Alternate Paradigm:** Positivism 
+
+**Article 2:** The influence of loyalty programs on South African Youth’s repeat purchase behaviour
+
+**Alternate Paradigm:** Critical Realism
+
+**Article 3:** University Students’ Media Use and Political Participation in South Africa
+
+**Alternate Paradigm:** Interpretivism
+
+### Q2.2
+
+### Q2.2.1
+
+**Article 1:** Post Graduate Students’ Experiences with Research Ethics: A South African Perspective
+
+**Research Problem:** The lack of sufficient imperical research on South African students examining the relationship formal ethics training, instatutional support has on their understanding of research ethics and the ethical clearance process. This adapted research problem aligns better with the positivist approach as it now aims to measure the relationship between variables through observable data (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+### Q2.2.2
+
+**Research Questions:**
+
+1. What is the relationship between formal ethics training and postgraduate students' understanding of the research ethics and ethical clearance process?
+
+2. What is the relationship between institutional support levels and the ethics compliance mannerisms of postgraduate students?
+
+3. What percentage of postgraduate students have formal ethics training in South African universities?
+
+### Q2.2.3
+**Hypotheses:** Postgraduate students who have received formal ethics training will handle the ethical clearance process more effectively than those who have not received formal ethics training.
+
+### Q2.2.4
+
+**Target Population:** All students enrolled in posgraduate programs conducting research requiring ethical clearance at South African universities.
+
+**Accessible Population:** Postgraduate students enrolled in research programs across seperate universities within South Africa who can be reached through mail or official university channels.
+
+**Parameters:** 
+
+- Students enrolled in postgraduate programs (Master's and Doctoral).
+- Students who have completed or are currently conducting research requiring ethical clearance.
+
+**Unit of analysis:** Individual postgraduate students
+
+
+**Article 2:** The influence of loyalty programs on South African Youth’s repeat purchase behaviour
+
+### Q2.2.1
+
+**Research Problem:** Young ustomers experiances with loyalty programs and how it influences their repeat purchase behavior. With interpretivism being the alternate paradigm, the research now takes a more subjective approach to understanding customers' experiences and perceptions of loyalty programs (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+### Q2.2.2
+
+**Research Questions:**
+
+1. The experiences of the South African youth with retail loyalty programs?
+2. Do loyalty programs influence customer satisfaction among South African youth?
+3. What are customers' perceptions of trust and commitment towards loyalty programs?
+
+### Q2.2.3
+
+**Research Objectives:**
+1. To explore the subjective experiences of South African youth with retail loyalty programs.
+2. To gain insights into how loyalty programs can influence customer satisfaction amon the youth.
+3. To understand the perception of trust and commitment towards loyalty programs among the youth.
+
+### Q2.2.4
+
+**Target Population:** South African youth (ages 18-24) who are members of loyalty programs.
+
+**Accessible Population:** Selected participants aged 18-24 who are members of loyalty programs and can be reached through email, social media, or university channels.
+
+**Parameters:** 
+
+- Youth aged 18 - 24 years old.
+- Must be members of loyalty programs.
+- Willing to be interviewed or complete a questionnaire.
+
+**Unit of analysis:** Indavidual youth particapnts who are members of loyalty programs.
+
+
+**Article 3:** University Students’ Media Use and Political Participation in South Africa
+
+### Q2.2.1
+
+**Research Problem:** As thier is a decline in political participation among university students in South Africa, it is emperative to understand students perceptions and understanding how there use of media influences their political participation. This alternative interpretivist apprach seeks to uderstand the subjective experiences of students rather than just measuring observable data (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+### Q2.2.2
+**Research Questions:**
+1. How do university students in South Africa use media to engage with politics?
+2. How do university students perceive the influence of media on their political participation?
+3. Have students ever participated in political activities as a result of media exposure?
+
+### Q2.2.3
+**Research Objectives:**
+1. To understand which media vectors university students in South Africa use to engage with politics.
+2. To explore students perceptions of the influence of media on their political participation.
+3. Understanding what causes students to participate in political activities as a result of media exposure.
+   
+### Q2.2.4
+
+**Target Population:** university students in South Africa who use media.
+
+**Accessible Population:** University students from various backgrounds who are willing to share their medua use and political participation experiences through interviews. 
+
+**Parameters:**
+
+- University students in South Africa.
+- Must use media (social media, news, etc.) to engage with politics.
+- Willing to participate in interviews.
+
+**Unit of analysis:** Indavidual university students who use media to engage with politics.
+
+
 
 
 # References
