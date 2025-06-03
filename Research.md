@@ -393,6 +393,25 @@ Much like Article 2, I believe that expanding the study to include multiple univ
 
 **Unit of analysis:** Indavidual university students who use media to engage with politics.
 
+### Q2.2.5 
+
+**Article 1:**
+
+**Sampling Method:** Stratified random sampling 
+
+With a more quantitative approach to the study conducted by Makola and Ntoyanto-Tyatyantsi (2023) we will have to revaluate the sampling method to accommodate the new research problem and objectives. Stratified random sampling fits the requirments as it allows us to divide the postgraduate student into subgorups (strata) based on characteristics such as field of study, university type , and level of education (Master's or Doctoral). With this method we can ensure genralised measurable findings across the entire population of postgraduate students according to du Plooy-Cilliers, Davis and Bezuidenhout (2021). I believe this approach is appropriate for the alternate paradigm of positivism as it seeks to enlighten and measure the relationship between variables (observable data) rather than just understanding subjective experiences which alligns with du Plooy-Cilliers, Davis and Bezuidenhout (2021) definition of positivism.
+
+**Article 2:**
+
+**Sampling Method:** Mixed methods sampling (stratified random sampling and purposive sampling)
+
+With the new paradigm being critical realism, we will have to combine elements of both quantitative and qualitative sampling methods to match this new criteria. Once agian I believe stratisfied random sampling is the best approach as it allows us to divide the youth population into subgroups (strata) based on characteristics such as age, type of loyalty program, and geographic location. This will helps us classify our quantitative data and ensure that we represent the youth population effectively according to du Plooy-Cilliers, Davis and Bezuidenhout (2021). For the qualitative component we can make use of purposive sampling to indentify set characteristics of participants, esspecially when conducting interviews (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). With this combined approach we can meet the criteria for critical realism and gain a deeper understanding of the youth's experiences with loyalty programs while still measuring observable data (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+**Article 3:**
+
+**Sampling Method:** Snoqwball sampling
+
+I believe snowball sampling is the best approach for the new interpretivist paradigm as it allows us to reach a wide range of participants through referrals from existing participants. This method is effective for qualitative research and as a parameter already being media users it may make it easier to find participants (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). This can also help to expand behond the university setting and reach more diverse participants who use media to engage with politics. I believe snowballing to be a suitable approach for this study as it allows us to gather large amounts of qualitative data from a diverse group of participants with a focus on volume giving us a deep insight into the subjective experiences of university students in South Africa (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
 
 
 
