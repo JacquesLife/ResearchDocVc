@@ -413,6 +413,33 @@ With the new paradigm being critical realism, we will have to combine elements o
 
 I believe snowball sampling is the best approach for the new interpretivist paradigm as it allows us to reach a wide range of participants through referrals from existing participants. This method is effective for qualitative research and as a parameter already being media users it may make it easier to find participants (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). This can also help to expand behond the university setting and reach more diverse participants who use media to engage with politics. I believe snowballing to be a suitable approach for this study as it allows us to gather large amounts of qualitative data from a diverse group of participants with a focus on volume giving us a deep insight into the subjective experiences of university students in South Africa (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
 
+### Q2.2.6
+
+**Article 1:**
+
+**Data Collection Method:** Questionnaire survey
+
+With the newly identified positivist paradigm, a questionnaire would be more appropriate form of data collection as it allows for the collection of quantitative data from a larger sample size. A Likert scale questionnaire to be more specfic would allow us to identify patterns and statistical relationships between variables such as formal ethics training, institutional support, and understanding of the ethical clearance process (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). With this numerical data collect researchers can then analyze the effectiveness of formal ethics training and institutional support on postgraduate students' to prove the hypothesis that postgraduate srudents who have received formal ethics training will handle this process more effectively than those who have not.
+
+**Article 2:** Questionnaire survey and semi-structured interviews
+
+To achive the goals of the critical realism paradigm, we will need to take a mixed methods approach collecting both quantitative and qualitative data. With this being said we can acheive this by using a questionnaire survey to collect quantitative data on the youth's experiences with loyalty programs and their repeat purchase behavior. For the qualitative component we can use semi-structured interviews to gain a subjective understanding of the youth's perceptions and experiences with loyalty programs. With this approach we can collect observable data and gain an undestanding of social phenomena align with the critical realism paradigm (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+**Article 3:** Focus groups 
+
+To successfully collect qualitative data for the interpretivist paradigm, we can employ focus groups as our data collection method. Focus groups guided by a facilitator can help us collectively explore the subjective experiences of university students regarding their media use and political participation. This can promote open discussions and cause the students to share their experiences in a more natural and interactive setting (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). Another benifit is to gather shared experiances giving us a deeper understanding of the social phenomena at play. Focus groups are common in interpretivist research as their primary focus is on understanding perceptions and experiences (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
+
+### Q2.2.7 
+
+**Article 1:** 
+
+**Data Analysis Method:** Statistical analysis
+
+
+**Article 2:** Mixed methods analysis (satistical analysis and thematic analysis)
+
+
+**Article 3:** Thematic analysis
 
 
 # References
