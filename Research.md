@@ -435,12 +435,18 @@ To successfully collect qualitative data for the interpretivist paradigm, we can
 
 **Data Analysis Method:** Statistical analysis
 
+With the paradigm change to positivism, we will need to analyze the quantitative data collected from the questionnaire survey. A good apporach would be to use statistical analysis to uncover patterns and relationships between variables such as formal ethics training, institutional support, and understanding of the ethical clearance process. According to Islam (2020) key components of statistical analysis include descriptive statistics and inferential statistics. We can use descriptive statistics to seperate students who have received formal ethics training and represent them as a percentage of the total sample size. Finally we can use inferential statistics to test the hypothesis that postgraduate students who have received formal ethics training will handle the ethical clearance process more effectively than those who have not Islam (2020). 
 
-**Article 2:** Mixed methods analysis (satistical analysis and thematic analysis)
+**Article 2:** 
+
+**Data Analysis Method:** Mixed methods analysis (satistical analysis and thematic analysis)
+
+To incoperate critical realism into the data analysis we will need to analyze both quantitative and qualitative data collected from the purposed questionnaire survey and semi-structured interviews. For the quantitative data we can once agian use statistical analysis to find patterns and relationships between the youth's experiences with loyalty programs and their repeat purchase behavior (Islam, 2020). For the qualitative data we can use thematic analysis with deductive coding in the attempt to identify commom themes and patterns amongst the participants' experiences and perceptions of loyalty programs (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). This mixed methods appraoch is appropriate for critical realism as it utilised data analysis methods which measure quantifiable data while also exploring subjective experiences through deductive coding (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
 
 
 **Article 3:** Thematic analysis
 
+To analyze the qualitative data collected from focus groups, we should use thematic analysis. Thematic analysis can help us discover patterns and themes within participants responses regarding their media use and political participation (du Plooy-Cilliers, Davis and Bezuidenhout, 2021). Utilising deductive coding we compare particpants responses to our list of know themes and patterns to isolate all data that informs the research questions. This approach is common is qualitative interpretivist research as it allows us to attempt to understand social phenomena through the subjective experiences of participants (du Plooy-Cilliers, Davis and Bezuidenhout, 2021).
 
 # References
 
@@ -455,6 +461,8 @@ du Plooy-Cilliers, F., Davis, C. and Bezuidenhout, R.-M., 2021. Research Matters
 Dudovskiy, J., 2025. Interpretivism (interpretivist) Research Philosophy. [online] Business Research Methodology. Available at: <https://research-methodology.net/research-philosophy/interpretivism/>.
 
 Eldridge , J., 2015. Chapter Objectives. [online] Available at: <https://samples.jbpub.com/9781284079654/9781284108958_CH12_Pass03.pdf>.
+
+Islam, M., 2020. Data Analysis: Types, Process, Methods, Techniques and Tools. International Journal on Data Science and Technology, [online] 6(1), p.10. Available at: <https://www.researchgate.net/publication/338528149_Data_Analysis_Types_Process_Methods_Techniques_and_Tools>.
 
 M, M.D., Hanumanthappa R, Rosalin Geetha and Kota Karuna Sri, 2024. Research Problem. [online] ResearchGate. Available at: <https://www.researchgate.net/publication/378555393_Research_Problem>.
 
